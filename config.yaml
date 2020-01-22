@@ -1,0 +1,24 @@
+---
+discordBotKey : '<your-discord-key-here>'
+guardaSovietico:
+  - id : <Guarda-Sovietico-ID-here>
+    name: "Guarda Soviético"
+oficialSovietico:
+  - id : <Oficial-Sovietico-ID-here>
+    name: "Oficial Soviético"
+estadoSovietico:
+  - id : <Estado-Sovietico-ID-here>
+    name: "Estado Soviético"
+canais:
+  deVoz:
+    Moscou : <voice-channel-ID-here>
+    Stalingrado : <voice-channel-ID-here>
+  deTexto:
+    portoes-de-moscou : <voice-channel-ID-here>
+usuarios:
+  - <USERNAMEHERE>:
+      id: <User-ID-here>
+      roles:
+        Estado : true
+        Moscou : false
+        Stalingrado : false
