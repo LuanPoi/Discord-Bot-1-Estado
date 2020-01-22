@@ -19,6 +19,6 @@ usuarios:
   - <USERNAMEHERE>:
       id: <User-ID-here>
       roles:
-        Estado : true
+        Estado : false
         Moscou : false
         Stalingrado : false
