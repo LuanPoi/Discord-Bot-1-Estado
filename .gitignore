@@ -112,6 +112,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# Configuration file
-config.yaml
